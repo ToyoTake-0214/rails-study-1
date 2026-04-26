@@ -72,7 +72,7 @@ class UsersController < ApplicationController
     end
 
     def set_index_title
-      @index_title = 'ユーザ一覧'
+      @index_title = 'ユーザー一覧'
     end
 
     def set_show_title
